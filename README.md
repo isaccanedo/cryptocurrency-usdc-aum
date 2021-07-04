@@ -17,7 +17,7 @@ node app
 
 ## Exemplo de saída a partir de 04-07-2021
 ```
-USDC Supply
+Fonte de USDC
 -----------------------------------------
       Ethereum USDC:    24,686,528,868.72
       Algorand USDC:       176,081,218.19
