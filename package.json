@@ -1,0 +1,15 @@
+{
+  "name": "usdc-aum",
+  "version": "0.1.0",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Erro: nenhum teste especificado\" && saída 1"
+  },
+  "author": "Isac Canedo",
+  "license": "MIT",
+  "description": "Leia APIs de troca para calcular o total de USDC em circulação."
+}
